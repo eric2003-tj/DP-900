@@ -46,4 +46,4 @@
 <img src ="https://github.com/eric2003-tj/DP-900/blob/main/json.png">
 <h3>可延伸標記語言 (XML)</h3>
 <p>XML 是一種一般人看得懂的資料格式，在 1990 和 2000 年代很受歡迎。 這主要是由較不詳細的 JSON 格式取代，但仍有一些系統使用 XML 來代表資料。 XML 使用以角括弧括住的標籤 (<../>)，以定義元素和屬性，如下列範例所示：</p>
-<img src = "http://help.seagullscientific.com/2021/cht/content/DB_Types_XML.htm">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RecipeBook_XML_Example.svg/425px-RecipeBook_XML_Example.svg.png">
