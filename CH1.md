@@ -69,12 +69,16 @@
 <p>非關聯式資料庫是不會將關聯式結構描述套用至資料的資料管理系統。 非關聯式資料庫通常稱為 NoSQL 資料庫，不過某些非關聯式資料庫仍然能夠支援 SQL 語言的變體。</p>
 <ul>
   <li><strong>索引鍵/值資料庫</strong>，其中每個記錄都包含唯一索引鍵和相關聯的值，可以是任何格式。</li>
+  <br>
   <img src ="https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/key-value-store.png">
   <li><strong>文件資料庫</strong>，這是索引鍵/值資料庫的特定形式，其值為 JSON 文件 (系統最佳化以剖析和查詢)
 </li>
+  <br>
   <img src ="https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/document-store.png">
   <li><strong>資料行系列資料庫</strong>，會儲存表格式資料，其中包含資料列和資料行，但是您可以將這些資料行分割成稱為資料行系列的群組。 每個資料行系列都會保留一組邏輯上相關的資料行。</li>
+  <br>
   <img src = "https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/column-family-store.png">
   <li><strong>圖形資料庫</strong>，會將實體儲存為具有連結的節點，以定義實體之間的關聯性。</li>
+  <br>
   <img src = "https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/graph.png">
 </ul>
