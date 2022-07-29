@@ -65,3 +65,16 @@
 <h3>關聯式資料庫</h3>
 <p>關聯式資料庫通常用來儲存和查詢結構化資料。 資料會儲存在代表實體 (例如客戶、產品或銷售訂單) 的資料表中。 實體的每個執行個體都會獲指派可唯一加以識別的主索引鍵，且這些索引鍵可用來在其他資料表中參考該實體執行個體。 例如，可以在銷售訂單記錄中參考客戶的主索引鍵，以指出有哪些客戶已下訂單。 使用索引鍵來參考資料實體的做法，能使關聯式資料庫標準化；意思是能去除重複的資料值。因此舉例來說，個別客戶的詳細資料只會儲存一次，而不會因為客戶多次下訂單而儲存多次。 資料表是使用結構化查詢語言 (SQL) 來管理和查詢。SQL 是以 ANSII 標準為基礎，因此在多個資料庫系統上都會很類似。</p>
 <img src="https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/relational-database.png">
+<h3>非關聯式資料庫</h3>
+<p>非關聯式資料庫是不會將關聯式結構描述套用至資料的資料管理系統。 非關聯式資料庫通常稱為 NoSQL 資料庫，不過某些非關聯式資料庫仍然能夠支援 SQL 語言的變體。</p>
+<ul>
+  <li><strong>索引鍵/值資料庫</strong>，其中每個記錄都包含唯一索引鍵和相關聯的值，可以是任何格式。</li>
+  <img src ="https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/key-value-store.png">
+  <li><strong>文件資料庫</strong>，這是索引鍵/值資料庫的特定形式，其值為 JSON 文件 (系統最佳化以剖析和查詢)
+</li>
+  <img src ="https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/document-store.png">
+  <li><strong>資料行系列資料庫</strong>，會儲存表格式資料，其中包含資料列和資料行，但是您可以將這些資料行分割成稱為資料行系列的群組。 每個資料行系列都會保留一組邏輯上相關的資料行。</li>
+  <img src = "https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/column-family-store.png">
+  <li><strong>圖形資料庫</strong>，會將實體儲存為具有連結的節點，以定義實體之間的關聯性。</li>
+  <img src = "https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/graph.png">
+</ul>
