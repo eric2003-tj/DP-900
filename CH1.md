@@ -91,3 +91,13 @@
   <li>隔離性(Isolation)</li>
   <li>持久性(Durability)</li>
 </ol>
+<br>
+<h3>OLAP</h3>
+<p>There are three steps dealing with dataset</p>
+<ul>
+  <li>Extract dataset</li>
+  <li>Transform(Normalization,formation...) dataset</li>
+  <li>Load dataset</li>
+</ul>
+<p>It is often used in non-relational dataset like NoSQLl's ELT/ETL processing</p>
+<p>Data is loaded,arranged and then strored in cube.</p>
