@@ -1,0 +1,8 @@
+資料庫管理員(DBA)
+DB Server(IaaS)(較底層)
+Database(PaaS)
+RBAC(Role Based Access Control)
+ETL(relational)
+ELT(non-relational)
+Data Engineer needs to formalize and normalize data.
+3+1 NF(Normal Form)
