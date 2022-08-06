@@ -99,5 +99,10 @@
   <li>Transform(Normalization,formation...) dataset</li>
   <li>Load dataset</li>
 </ul>
-<p>It is often used in non-relational dataset like NoSQLl's ELT/ETL processing</p>
-<p>Data is loaded,arranged and then strored in cube.</p>
+<p>It is often used in non-relational dataset like NoSQLl's ELT/ETL processing.
+Data is loaded,arranged and then strored in cube.Furthermore, it can be used in data analysis and decision making.</p>
+<ul>
+  <li>summary</li>
+  <li>trend</li>
+  <li>BI(business intelligence</li>
+</ul>
