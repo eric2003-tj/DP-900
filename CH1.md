@@ -82,3 +82,12 @@
   <br>
   <img src = "https://docs.microsoft.com/zh-tw/learn/wwl-data-ai/explore-core-data-concepts/media/graph.png">
 </ul>
+<br>
+<h3>OLTP</h3>
+<p>用於關聯式資料庫的交易需符合ACID原則</p>
+<ol>
+  <li>原子性(Atomicity)</li>
+  <li>一致性(Consistency)</li>
+  <li>隔離性(Isolation)</li>
+  <li>持久性(Durability)</li>
+</ol>
