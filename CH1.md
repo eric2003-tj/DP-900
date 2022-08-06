@@ -106,3 +106,4 @@ Data is loaded,arranged and then strored in cube.Furthermore, it can be used in 
   <li>trend</li>
   <li>BI(business intelligence</li>
 </ul>
+<p>We can use batch arrangement(not immediately) and stream arrangement(immediately)</p>
