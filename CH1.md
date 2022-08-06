@@ -107,5 +107,5 @@ Data is loaded,arranged and then strored in cube.Furthermore, it can be used in 
   <li>BI(business intelligence</li>
 </ul>
 <p>We can use batch arrangement(not immediately) and stream arrangement(immediately)</p>
-<img src="https://user-images.githubusercontent.com/102838561/183238287-8d80325f-efb5-429d-b03b-c63e0e7e329c.png">
-"
+<img src="https://github.com/eric2003-tj/DP-900/blob/main/img1.png">
+
